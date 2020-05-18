@@ -3,6 +3,6 @@
         "node_modules{,/**}",
         ".vscode{,/**}"
     ],
-    "appService.defaultWebAppToDeploy": "/subscriptions/d1cf66eb-fe7d-4f80-bff3-3865288f31ab/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/RestaurantReco",
-    "appService.deploySubpath": ""
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/d1cf66eb-fe7d-4f80-bff3-3865288f31ab/resourceGroups/myResourceGroup/providers/Microsoft.Web/sites/WYWE"
 }
